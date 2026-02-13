@@ -1,5 +1,5 @@
 ﻿site:
-  name: 'Sedot WC Bojonegoro - Harga Promo Hari Ini'
+  name: 'Sedot WC Bojonegoro'
   site: 'https://example.com' # Nanti Cloudflare akan otomatis menyesuaikan
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@
 # Default SEO metadata
 metadata:
   title:
-    default: 'Sedot WC Bojonegoro - Harga Promo Hari Ini'
+    default: 'Sedot WC Bojonegoro'
     template: '%s â€” Sedot WC BOJONEGORO'
   description: "Tukang Sedot WC BOJONEGORO profesional. Melayani sedot septic tank penuh, pelancaran saluran mampet, dan limbah industri. Respon cepat & harga transparan!"
   robots:
     index: false
     follow: true
   openGraph:
-    site_name: 'Sedot WC Bojonegoro - Harga Promo Hari Ini'
+    site_name: 'Sedot WC Bojonegoro'
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -44,19 +44,19 @@ apps:
 
     list:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Bojonegoro' 
       robots:
         index: false
 
     category:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Bojonegoro' 
       robots:
         index: false
 
     tag:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Bojonegoro' 
       robots:
         index: false
 
@@ -70,6 +70,7 @@ analytics:
 
 ui:
   theme: 'light' # Untuk jasa sedot WC, tema "Light" biasanya terlihat lebih bersih dan terpercaya
+
 
 
 
